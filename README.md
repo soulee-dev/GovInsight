@@ -91,5 +91,8 @@
 ## 방송통신
 - [회의록 - 방송통신위원회](https://www.kcc.go.kr/user.do?boardId=1003&page=A02010100&dc=K02010100)
 
+## 법령
+- [정부입법지원센터 - 법령해석](https://www.lawmaking.go.kr/nl4li/lsItptEmp/list?mode=all)
+- [개인정보파일 - 개인정보보호위원회](https://www.privacy.go.kr/front/wcp/dcl/per/personalInfoFileSrhList.do)
 ## 원자력
 - [회의록 - 원자력안전위원회](https://www.nssc.go.kr/ko/cms/FR_CON/index.do?MENU_ID=170)
